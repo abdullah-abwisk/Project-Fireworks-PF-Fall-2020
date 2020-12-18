@@ -274,4 +274,4 @@ void horizontalstars(int row, int initcolumn, int stars, int spaces, char firewo
 }
 
 
-/* Thank You for looking at our program */
+/* Thank You for looking at my program */

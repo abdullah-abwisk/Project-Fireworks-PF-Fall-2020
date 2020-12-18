@@ -4,8 +4,6 @@
    Shape Assigned: Serpentine
    Group Members:
    					Abdullah Khan : 20I-0894
-   					Senir Kashir  : 20I-0927
-   					Firza Hussain : 19I-1725
 */
 
 

@@ -4,8 +4,6 @@
    Shape Assigned: Serpentine
    Group Members:
    					Abdullah Khan : 20I-0894
-   					Senir Kashir  : 20I-0927
-   					Firza Hussain : 19I-1725
    					
    Date:  14th December 2020
    Deadline:  17th December 2020				
@@ -180,7 +178,7 @@ int main()
 	
 	
 	// displaying message for user
-	cout << "|*\tProject Programming Fundamentals\t*|\n\n\t|* Serpentine Firework *|\n\tBy:\n\t\t1. Abdullah Khan\n\t\t2. Senir Kashir\n\t\t3. Firza Hussain\n\n\t|* Dated: 14th December 2020 *|\n\n\n\tWelcome to Serpentine Firework\n\tPress Enter key to display the firework\n\n";
+	cout << "|*\tProject Programming Fundamentals\t*|\n\n\t|* Serpentine Firework *|\n\tBy:\n\t\t Abdullah Khan\n\n\n\t|* Dated: 14th December 2020 *|\n\n\n\tWelcome to Serpentine Firework\n\tPress Enter key to display the firework\n\n";
 	cin.ignore();
 	
 	
